@@ -24,7 +24,7 @@ The assignment was completed as part of a training task for Smart Methods.
 | `labels.txt`       | Text file containing class labels           |
 | `test_image.jpg`   | Sample image used to test the model         |
 | `predict.py`       | Python script to load model and make prediction |
-| `screenshot.png`   | Screenshot showing prediction output        |
+| `screenshot.jpg`   | Screenshot showing prediction output        |
 
 ---
 
