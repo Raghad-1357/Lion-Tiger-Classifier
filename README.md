@@ -42,10 +42,5 @@ Confidence Score: 0.98
 
 ---
 
-📸 Screenshot  
-*i will put pic here 😁*
-
----
-
 👩‍💻 Author
 Developed by Raghad Alrashidi
